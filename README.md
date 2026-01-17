@@ -1,4 +1,4 @@
-# 🚀 Jenkins & Docker CI/CD Demo Project
+# 🚀 Jenkins & Docker CI/CD Demo Project.
 
 This project demonstrates a **simple yet powerful CI/CD pipeline** using **Jenkins** and **Docker** to automatically build and deploy a modern static website.
 
@@ -6,7 +6,7 @@ Whenever code is pushed to GitHub, Jenkins triggers the pipeline, builds a Docke
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack.
 
 - **Jenkins** – CI/CD automation
 - **Docker** – Containerization
@@ -16,5 +16,5 @@ Whenever code is pushed to GitHub, Jenkins triggers the pipeline, builds a Docke
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure.
 
